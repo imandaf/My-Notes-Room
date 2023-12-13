@@ -1,4 +1,10 @@
-# My Notes Room
+<h1 align="center">My Notes Room</h1>
+
+
+<p align="center">
+  <a href="https://github.com/imandaf/My-Notes-Room/actions"><img alt="Build Status" src="https://github.com/imandaf/My-Notes-Room/blob/main/image/badge.svg"/></a>
+</p>
+
 
 Notes Application Using Room
 
